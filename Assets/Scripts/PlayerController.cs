@@ -12,7 +12,7 @@ public class PlayerController : MonoBehaviour {
     Rigidbody2D rgbd2d;
     Animator anim;
     private float playerSpeed = 1f;
-    private float jumpHeight = 150f;
+    private float jumpHeight = 300f;
 
 	// Use this for initialization
 	void Start () {
