@@ -1,0 +1,664 @@
+fileFormatVersion: 2
+guid: 3fefc999e382c6444be2f8e1f8942a61
+timeCreated: 1492112672
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 2D-Game-Alien-Character-Free-Sprite12_burned_0
+    21300002: 2D-Game-Alien-Character-Free-Sprite12_burned_1
+    21300004: 2D-Game-Alien-Character-Free-Sprite12_burned_2
+    21300006: 2D-Game-Alien-Character-Free-Sprite12_burned_3
+    21300008: 2D-Game-Alien-Character-Free-Sprite12_burned_4
+    21300010: 2D-Game-Alien-Character-Free-Sprite12_burned_5
+    21300012: 2D-Game-Alien-Character-Free-Sprite12_burned_6
+    21300014: 2D-Game-Alien-Character-Free-Sprite12_burned_7
+    21300016: 2D-Game-Alien-Character-Free-Sprite12_burned_8
+    21300018: 2D-Game-Alien-Character-Free-Sprite12_burned_9
+    21300020: 2D-Game-Alien-Character-Free-Sprite12_burned_10
+    21300022: 2D-Game-Alien-Character-Free-Sprite12_burned_11
+    21300024: 2D-Game-Alien-Character-Free-Sprite12_burned_12
+    21300026: 2D-Game-Alien-Character-Free-Sprite12_burned_13
+    21300028: 2D-Game-Alien-Character-Free-Sprite12_burned_14
+    21300030: 2D-Game-Alien-Character-Free-Sprite12_burned_15
+    21300032: 2D-Game-Alien-Character-Free-Sprite12_burned_16
+    21300034: 2D-Game-Alien-Character-Free-Sprite12_burned_17
+    21300036: 2D-Game-Alien-Character-Free-Sprite12_burned_18
+    21300038: 2D-Game-Alien-Character-Free-Sprite12_burned_19
+    21300040: 2D-Game-Alien-Character-Free-Sprite12_burned_20
+    21300042: 2D-Game-Alien-Character-Free-Sprite12_burned_21
+    21300044: 2D-Game-Alien-Character-Free-Sprite12_burned_22
+    21300046: 2D-Game-Alien-Character-Free-Sprite12_burned_23
+    21300048: 2D-Game-Alien-Character-Free-Sprite12_burned_24
+    21300050: 2D-Game-Alien-Character-Free-Sprite12_burned_25
+    21300052: 2D-Game-Alien-Character-Free-Sprite12_burned_26
+    21300054: 2D-Game-Alien-Character-Free-Sprite12_burned_27
+    21300056: 2D-Game-Alien-Character-Free-Sprite12_burned_28
+    21300058: 2D-Game-Alien-Character-Free-Sprite12_burned_29
+    21300060: 2D-Game-Alien-Character-Free-Sprite12_burned_30
+    21300062: 2D-Game-Alien-Character-Free-Sprite12_burned_31
+    21300064: 2D-Game-Alien-Character-Free-Sprite12_burned_32
+    21300066: 2D-Game-Alien-Character-Free-Sprite12_burned_33
+    21300068: 2D-Game-Alien-Character-Free-Sprite12_burned_34
+    21300070: 2D-Game-Alien-Character-Free-Sprite12_burned_35
+    21300072: 2D-Game-Alien-Character-Free-Sprite12_burned_36
+    21300074: 2D-Game-Alien-Character-Free-Sprite12_burned_37
+    21300076: 2D-Game-Alien-Character-Free-Sprite12_burned_38
+    21300078: 2D-Game-Alien-Character-Free-Sprite12_burned_39
+    21300080: 2D-Game-Alien-Character-Free-Sprite12_burned_40
+    21300082: 2D-Game-Alien-Character-Free-Sprite12_burned_41
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 328
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 328
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 328
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 329
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_4
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 328
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_5
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 293
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_6
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 300
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_7
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 302
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_8
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 293
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 247
+        width: 33
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 249
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 249
+        width: 33
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_12
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 248
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_13
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 247
+        width: 32
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_14
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 247
+        width: 32
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_15
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 211
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_16
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 212
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_17
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 211
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_18
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 211
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 173
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_20
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 173
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 170
+        width: 32
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_22
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 170
+        width: 36
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_23
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 132
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_24
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 132
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_25
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 132
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_26
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 132
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_27
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 132
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_28
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 132
+        width: 104
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_29
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 94
+        width: 37
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_30
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 93
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_31
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 93
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_32
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 93
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_33
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 48
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 50
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_35
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 50
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_36
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 49
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_37
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 19
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_38
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 19
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_39
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 22
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_40
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 24
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2D-Game-Alien-Character-Free-Sprite12_burned_41
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 22
+        width: 65
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

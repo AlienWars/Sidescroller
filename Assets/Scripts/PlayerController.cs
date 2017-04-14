@@ -14,8 +14,24 @@ public class PlayerController : MonoBehaviour {
     private float playerSpeed = 1f;
     private float jumpHeight = 300f;
 
-	// Use this for initialization
-	void Start () {
+    void OnCollisionEnter2D(Collision2D other)
+    {
+        if(other.transform.tag == "MovingPlatform")
+        {
+            transform.parent = other.transform;
+        }
+    }
+
+    void OnCollisionExit2D(Collision2D other)
+    {
+        if (other.transform.tag == "MovingPlatform")
+        {
+            transform.parent = null;
+        }
+    }
+
+    // Use this for initialization
+    void Start () {
         //identifica animator e rigidbody2d
         rgbd2d = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
@@ -62,4 +78,5 @@ public class PlayerController : MonoBehaviour {
 
 
     }
+
 }
