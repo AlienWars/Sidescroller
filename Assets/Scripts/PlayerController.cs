@@ -11,8 +11,8 @@ public class PlayerController : MonoBehaviour {
 
     Rigidbody2D rgbd2d;
     Animator anim;
-    private float playerSpeed = 1f;
-    private float jumpHeight = 300f;
+    private float playerSpeed = 1.5f;
+    private float jumpHeight = 200f;
 
     void OnCollisionEnter2D(Collision2D other)
     {
@@ -41,14 +41,14 @@ public class PlayerController : MonoBehaviour {
     {
         //Cria o radius para o ChaoCheck
         noChao = Physics2D.OverlapCircle(chaoCheck.position, chaoRadius, oQueEChao);
-        anim.SetBool("walking", noChao);
+        //anim.SetBool("walking", noChao);
     }
 
         // Update is called once per frame
         void Update () {
 
         //Pega o valor absoluto da axis Horizontal e seta como speed, se speed for > 0.1 no animator ele começa a animação
-        anim.SetFloat("speed", Mathf.Abs(Input.GetAxis("Horizontal")));
+        //anim.SetFloat("speed", Mathf.Abs(Input.GetAxis("Horizontal")));
 
         //parte da movimentação básica do jogador
         if(Input.GetAxis("Horizontal") > 0)
@@ -67,14 +67,14 @@ public class PlayerController : MonoBehaviour {
             rgbd2d.AddForce(Vector2.up * jumpHeight);
         }
 
-        if(anim.GetBool("walking") == true)
-        {
-            anim.SetBool("jumping", false);
-        }
-        if (anim.GetBool("walking") == false)
-        {
-            anim.SetBool("jumping", true);
-        }
+        //if(anim.GetBool("walking") == true)
+        //{
+            //anim.SetBool("jumping", false);
+        //}
+        //if (anim.GetBool("walking") == false)
+        //{
+            //anim.SetBool("jumping", true);
+        //}
 
 
     }
